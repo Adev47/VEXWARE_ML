@@ -1,0 +1,4 @@
+SILENT CHAIR,online
+UNLOCK ALL,online
+LOUD CHAIR,online
+BLOCKER,online
