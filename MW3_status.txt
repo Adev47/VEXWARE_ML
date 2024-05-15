@@ -1,4 +1,5 @@
 SILENT CHAIR,online
 VEXWARE CHAIR,online
 UNLOCK ALL,online
+FOV TOOL,online
 BLOCKER,online
